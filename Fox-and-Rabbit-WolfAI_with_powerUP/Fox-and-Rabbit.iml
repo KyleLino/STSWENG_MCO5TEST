@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Archive/MP_CCPROG3_S13/src" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Archive/out/production/Archive" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Archive/out/production/MP_CCPROG3" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
