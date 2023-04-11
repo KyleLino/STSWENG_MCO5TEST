@@ -3,7 +3,7 @@ import model.*;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class test {
+public class MainTest {
     Board board = new Board();
     //GameController gamecontroller = new GameController();
     Rabbit rabbit = new Rabbit();
